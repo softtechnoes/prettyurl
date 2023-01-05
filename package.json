@@ -15,7 +15,7 @@
         "bulma-extensions": "^0.4.2",
         "cross-env": "^5.1",
         "jquery": "^3.5",
-        "laravel-mix": "^1.0",
+        "laravel-mix": "^6.0",
         "lodash": "^4.17.4",
         "vue": "^2.1.10"
     },
